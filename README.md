@@ -1,2 +1,2 @@
 # Week-1-task
-Week 1 task for web design and development (backend)
+sideHustle internship's Week 1 task for web design and development (backend)
